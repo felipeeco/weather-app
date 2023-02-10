@@ -2,6 +2,22 @@ body {
   background-color: black !important;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
   color: white !important;
-  margin-top: 5%;
+  margin-top: 5% !important;
+  text-align: center !important;
+}
+
+.search-box {
   text-align: center;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.result{
+  text-align: left;
+  margin: auto;
+}
+
+.button-box {
+  justify-content: center;
+  margin-top: 20px;
 }
